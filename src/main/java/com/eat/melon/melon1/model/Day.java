@@ -1,0 +1,22 @@
+/**
+  * Copyright 2023 bejson.com 
+  */
+package com.eat.melon.melon1.model;
+
+/**
+ * Auto-generated: 2023-08-30 16:28:0
+ *
+ * @author bejson.com (i@bejson.com)
+ * @website http://www.bejson.com/java2pojo/
+ */
+public class Day {
+
+    private String argb;
+    public void setArgb(String argb) {
+         this.argb = argb;
+     }
+     public String getArgb() {
+         return argb;
+     }
+
+}

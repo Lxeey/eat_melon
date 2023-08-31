@@ -9,6 +9,4 @@ out
 gen
 .idea/
 bilibli_melon.iml
-pom.xml
-src/
 target/
